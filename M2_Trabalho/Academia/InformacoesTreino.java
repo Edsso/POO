@@ -1,6 +1,6 @@
 // Trabalho feito por Douglas e Edson
 
-package TrabalhoM2Academia;
+package M2_Academia;
 
 public class InformacoesTreino {
 
