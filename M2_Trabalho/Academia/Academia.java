@@ -1,4 +1,4 @@
-package TrabalhoM2Academia;
+package M2_Academia;
 
 import java.time.*;
 import java.time.format.DateTimeFormatter;
